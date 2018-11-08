@@ -1,0 +1,55 @@
+{
+    "fourcc_enum": 875967064, 
+    "notes": {
+        "category": "distant_find", 
+        "basic_notes": "Hello Training Data: a generic ball vid", 
+        "orientation": 0, 
+        "details": {
+            "light_level": "sunlight_strong", 
+            "ball_color": "green", 
+            "ball_present": true
+        }
+    }, 
+    "frame_size": "(640, 480)", 
+    "b_buffer": false, 
+    "proc-data": {
+        "last_write_compression_enum": 0
+    }, 
+    "processed": true, 
+    "cam_num": 0, 
+    "frames": [
+        {
+            "int_param": 12, 
+            "scoring": null, 
+            "str_param": "bring it to me", 
+            "float_param": 9.999, 
+            "bool_param": true, 
+            "none_param": null, 
+            "orig_vid_index": 0
+        }, 
+        {
+            "int_param": 13, 
+            "scoring": null, 
+            "str_param": "", 
+            "nested_dict": {
+                "inside_param": 0
+            }, 
+            "bool_param": false, 
+            "none_param": "these are the altered params", 
+            "float_param": -9.999, 
+            "orig_vid_index": 1
+        }, 
+        {
+            "int_param": 13, 
+            "scoring": null, 
+            "str_param": "", 
+            "nested_dict": {
+                "inside_param": 0
+            }, 
+            "bool_param": false, 
+            "none_param": "these are the altered params", 
+            "float_param": -9.999, 
+            "orig_vid_index": 3
+        }
+    ]
+}

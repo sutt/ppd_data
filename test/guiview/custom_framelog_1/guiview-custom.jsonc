@@ -1,0 +1,10 @@
+
+            {
+                "bool_param": false,
+                "int_param": 13,
+                "str_param": "",
+                "float_param": -9.999,
+                "none_param": "these are the altered params",
+                "nested_dict": {"inside_param":0}
+            }
+            

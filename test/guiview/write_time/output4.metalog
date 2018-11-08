@@ -1,0 +1,16 @@
+{
+    "fourcc_enum": 875967064, 
+    "b_buffer": false, 
+    "frame_size": "(640, 480)", 
+    "notes": {
+        "category": "distant_find", 
+        "basic_notes": "Hello Training Data: a generic ball vid", 
+        "orientation": 0, 
+        "details": {
+            "light_level": "sunlight_strong", 
+            "ball_color": "green", 
+            "ball_present": true
+        }
+    }, 
+    "cam_num": 0
+}

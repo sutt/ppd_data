@@ -1,0 +1,43 @@
+{
+    "proc-data": {
+        "last_write_compression_enum": 0
+    }, 
+    "frames": [
+        {
+            "scoring": null, 
+            "frame_type": "end", 
+            "notes": null, 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 0, 
+            "details-type": null
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "end", 
+            "notes": null, 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 2, 
+            "details-type": null
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "end", 
+            "notes": null, 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 5, 
+            "details-type": null
+        }
+    ]
+}

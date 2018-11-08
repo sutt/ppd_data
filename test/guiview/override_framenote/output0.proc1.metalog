@@ -1,0 +1,188 @@
+{
+    "fourcc_enum": 875967064, 
+    "notes": {
+        "category": "distant_find", 
+        "basic_notes": "Hello Training Data: a generic ball vid", 
+        "orientation": 0, 
+        "details": {
+            "light_level": "sunlight_strong", 
+            "ball_color": "green", 
+            "ball_present": true
+        }
+    }, 
+    "cam_num": 0, 
+    "b_buffer": false, 
+    "proc-data": {
+        "last_write_compression_enum": 0
+    }, 
+    "processed": true, 
+    "frame_size": "(640, 480)", 
+    "frames": [
+        {
+            "scoring": {
+                "0": {
+                    "type": "circle", 
+                    "data": [
+                        203, 
+                        170, 
+                        47, 
+                        59
+                    ]
+                }
+            }, 
+            "frame_type": "sutton demo", 
+            "notes": "adding a demo frame", 
+            "details": {
+                "ball_partial_occluded": true, 
+                "ball_is_close": "medium", 
+                "ball_present": false
+            }, 
+            "orig_vid_index": 0, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "overwritten", 
+            "notes": "adding a demo frame", 
+            "details": {
+                "ball_partial_occluded": true, 
+                "ball_is_close": "medium", 
+                "ball_present": false
+            }, 
+            "orig_vid_index": 1, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "sutton demo", 
+            "notes": "adding a demo frame", 
+            "details": {
+                "ball_partial_occluded": true, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 2, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": {
+                "1": {
+                    "data": [
+                        [
+                            105, 
+                            354
+                        ], 
+                        [
+                            239, 
+                            239
+                        ]
+                    ], 
+                    "type": "ray"
+                }
+            }, 
+            "frame_type": "sutton demo", 
+            "notes": "adding a demo frame", 
+            "details": {
+                "ball_partial_occluded": true, 
+                "ball_is_close": "lightyears", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 3, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": {
+                "1": {
+                    "type": "ray", 
+                    "data": [
+                        [
+                            105, 
+                            354
+                        ], 
+                        [
+                            239, 
+                            239
+                        ]
+                    ]
+                }, 
+                "2": {
+                    "type": "circle", 
+                    "data": [
+                        166, 
+                        131, 
+                        39, 
+                        39
+                    ]
+                }
+            }, 
+            "frame_type": "sutton demo", 
+            "notes": "adding a demo frame", 
+            "details": {
+                "ball_partial_occluded": true, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 4, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": {
+                "1": {
+                    "data": [
+                        [
+                            105, 
+                            354
+                        ], 
+                        [
+                            239, 
+                            239
+                        ]
+                    ], 
+                    "type": "ray"
+                }, 
+                "2": {
+                    "data": [
+                        166, 
+                        131, 
+                        39, 
+                        39
+                    ], 
+                    "type": "circle"
+                }
+            }, 
+            "frame_type": "sutton demo", 
+            "notes": "adding a demo frame", 
+            "details": {
+                "ball_partial_occluded": true, 
+                "ball_is_close": "lightyears", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 5, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "sutton demo", 
+            "notes": "adding a demo frame", 
+            "details": {
+                "ball_partial_occluded": true, 
+                "ball_is_close": "medium", 
+                "ball_present": false
+            }, 
+            "orig_vid_index": 6, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "sutton demo", 
+            "notes": "adding a demo frame", 
+            "details": {
+                "ball_partial_occluded": true, 
+                "ball_is_close": "medium", 
+                "ball_present": false
+            }, 
+            "orig_vid_index": 7, 
+            "details-type": "details1"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "fourcc_enum": 875967064, 
+    "b_buffer": false, 
+    "frame_size": "(640, 480)", 
+    "notes": {
+        "category": "frametime_experiment", 
+        "basic_notes": "Investigate --funkread with --sleepschedule; does it put drastic motion on the correct frame?", 
+        "details": {
+            "light_level": null, 
+            "ball_color": null, 
+            "ball_present": null
+        }
+    }, 
+    "cam_num": 0
+}

@@ -1,0 +1,31 @@
+{
+    "proc-data": {
+        "last_write_compression_enum": 0
+    }, 
+    "frames": [
+        {
+            "scoring": null, 
+            "frame_type": "test meta_adv", 
+            "notes": "use this for testing custom framelogs with the --framelog flag", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": false
+            }, 
+            "orig_vid_index": 0, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "test meta_adv", 
+            "notes": "use this for testing custom framelogs with the --framelog flag", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": false
+            }, 
+            "orig_vid_index": 1, 
+            "details-type": "details1"
+        }
+    ]
+}
