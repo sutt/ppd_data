@@ -1,0 +1,78 @@
+{
+    "fourcc_enum": 875967064, 
+    "notes": {
+        "category": "distant_find", 
+        "basic_notes": "Hello Training Data: a generic ball vid", 
+        "orientation": 0, 
+        "details": {
+            "light_level": "sunlight_strong", 
+            "ball_color": "green", 
+            "ball_present": true
+        }
+    }, 
+    "frame_size": "(640, 480)", 
+    "b_buffer": false, 
+    "proc-data": {
+        "last_write_compression_enum": 0
+    }, 
+    "processed": true, 
+    "cam_num": 0, 
+    "frames": [
+        {
+            "scoring": {
+                "1": {
+                    "type": "circle", 
+                    "data": [
+                        355, 
+                        383, 
+                        53, 
+                        45
+                    ]
+                }, 
+                "0": {
+                    "type": "circle", 
+                    "data": [
+                        201, 
+                        158, 
+                        51, 
+                        50
+                    ]
+                }, 
+                "2": {
+                    "type": "ray", 
+                    "data": [
+                        [
+                            118, 
+                            376
+                        ], 
+                        [
+                            307, 
+                            270
+                        ]
+                    ]
+                }
+            }, 
+            "frame_type": "sutton demo", 
+            "notes": "adding a demo frame", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 0, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "sutton demo", 
+            "notes": "adding a demo frame", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 1, 
+            "details-type": "details1"
+        }
+    ]
+}

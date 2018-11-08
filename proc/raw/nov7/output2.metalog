@@ -1,0 +1,15 @@
+{
+    "fourcc_enum": 875967064, 
+    "b_buffer": false, 
+    "frame_size": "(1280, 720)", 
+    "notes": {
+        "category": "motion", 
+        "basic_notes": "novemeber hello bounce data", 
+        "details": {
+            "light_level": "sunlight", 
+			"ball_color": "green", 
+            "ball_present": false
+        }
+    }, 
+    "cam_num": 0
+}

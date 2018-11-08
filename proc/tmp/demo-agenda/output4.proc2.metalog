@@ -1,0 +1,4521 @@
+{
+    "fourcc_enum": 875967064, 
+    "notes": {
+        "category": "distant_find", 
+        "basic_notes": "Hello Training Data: a generic ball vid", 
+        "orientation": 0, 
+        "details": {
+            "light_level": "sunlight_strong", 
+            "ball_color": "green", 
+            "ball_present": true
+        }
+    }, 
+    "cam_num": 0, 
+    "b_buffer": false, 
+    "proc-data": {}, 
+    "processed": true, 
+    "frame_size": "(640, 480)", 
+    "frames": [
+        {
+            "scoring": [
+                202, 
+                162, 
+                48, 
+                43
+            ], 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 0, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 1, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 2, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 3, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 4, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 5, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 6, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 7, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 8, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 9, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 10, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 11, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 12, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 13, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 14, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 15, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 16, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 17, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 18, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 19, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 20, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 21, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 22, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 23, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 24, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 25, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 26, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": [
+                146, 
+                158, 
+                44, 
+                40
+            ], 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 27, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 28, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 29, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 30, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 31, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 32, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 33, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 34, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 35, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 36, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 37, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 38, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 39, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 40, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 41, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 42, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 43, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 44, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 45, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 46, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 47, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 48, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 49, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 50, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 51, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 52, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 53, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 54, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 55, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 56, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 57, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 58, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 59, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 60, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 61, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 62, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 63, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 64, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 65, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 66, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 67, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "close", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 68, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": [
+                207, 
+                239, 
+                20, 
+                19
+            ], 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 69, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 70, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 71, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 72, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 73, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 74, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 75, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 76, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 77, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 78, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 79, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 80, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 81, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 82, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 83, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 84, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 85, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 86, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 87, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 88, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 89, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 90, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 91, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 92, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 93, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 94, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 95, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 96, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 97, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 98, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 99, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 100, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 101, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 102, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 103, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 104, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 105, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 106, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 107, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 108, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 109, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 110, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 111, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 112, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 113, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 114, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 115, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 116, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 117, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 118, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 119, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 120, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 121, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 122, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 123, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 124, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 125, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 126, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 127, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 128, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 129, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 130, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 131, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 132, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 133, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 134, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 135, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 136, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 137, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 138, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 139, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 140, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": [
+                475, 
+                250, 
+                11, 
+                11
+            ], 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 141, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 142, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 143, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 144, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 145, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 146, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 147, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 148, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 149, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 150, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 151, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 152, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 153, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 154, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 155, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 156, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 157, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 158, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 159, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 160, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 161, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 162, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 163, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 164, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 165, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 166, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 167, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 168, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 169, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 170, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 171, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 172, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 173, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 174, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 175, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 176, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 177, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 178, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 179, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 180, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 181, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 182, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 183, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 184, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 185, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 186, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 187, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 188, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 189, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 190, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 191, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 192, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 193, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 194, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 195, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 196, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 197, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 198, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 199, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 200, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 201, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 202, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 203, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 204, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 205, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 206, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 207, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 208, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 209, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 210, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 211, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 212, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 213, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 214, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 215, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 216, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 217, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 218, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 219, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 220, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 221, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 222, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 223, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 224, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 225, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 226, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 227, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 228, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 229, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": [
+                258, 
+                267, 
+                12, 
+                10
+            ], 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 230, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 231, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 232, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 233, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 234, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 235, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 236, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 237, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 238, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 239, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 240, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 241, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 242, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 243, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 244, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 245, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 246, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 247, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 248, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 249, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 250, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 251, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 252, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 253, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 254, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 255, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 256, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 257, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 258, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 259, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 260, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 261, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 262, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 263, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 264, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 265, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 266, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 267, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 268, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 269, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 270, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 271, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 272, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 273, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 274, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 275, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 276, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 277, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 278, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 279, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 280, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 281, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 282, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 283, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 284, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 285, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 286, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 287, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 288, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 289, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 290, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 291, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 292, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 293, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 294, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 295, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 296, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 297, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 298, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 299, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 300, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 301, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 302, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 303, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 304, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 305, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 306, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 307, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 308, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 309, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 310, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 311, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 312, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 313, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 314, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 315, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 316, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 317, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 318, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 319, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 320, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 321, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 322, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 323, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 324, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 325, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 326, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 327, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 328, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 329, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 330, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 331, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 332, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 333, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 334, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 335, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 336, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 337, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 338, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 339, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 340, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 341, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 342, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 343, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 344, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 345, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 346, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 347, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 348, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 349, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 350, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 351, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 352, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 353, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 354, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 355, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 356, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 357, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 358, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 359, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 360, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 361, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 362, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 363, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 364, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 365, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 366, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 367, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 368, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 369, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 370, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 371, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 372, 
+            "details-type": "details1"
+        }
+    ]
+}

@@ -1,0 +1,2704 @@
+{
+    "fourcc_enum": 875967064, 
+    "notes": {
+        "category": "distant_find", 
+        "basic_notes": "Hello Training Data: a generic ball vid", 
+        "orientation": 0, 
+        "details": {
+            "light_level": "sunlight_strong", 
+            "ball_color": "green", 
+            "ball_present": true
+        }
+    }, 
+    "cam_num": 0, 
+    "b_buffer": false, 
+    "proc-data": {}, 
+    "processed": true, 
+    "frame_size": "(1920, 1080)", 
+    "frames": [
+        {
+            "scoring": [
+                375, 
+                321, 
+                153, 
+                132
+            ], 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 0, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 1, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 2, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 3, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 4, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 5, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 6, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 7, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 8, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 9, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 10, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 11, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 12, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 13, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 14, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 15, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 16, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 17, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": [
+                732, 
+                483, 
+                84, 
+                75
+            ], 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 18, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 19, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 20, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 21, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 22, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 23, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 24, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 25, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 26, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 27, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 28, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 29, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 30, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 31, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 32, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 33, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 34, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 35, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 36, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 37, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 38, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 39, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 40, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 41, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 42, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 43, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 44, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 45, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 46, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 47, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 48, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 49, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 50, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 51, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": [
+                633, 
+                594, 
+                48, 
+                42
+            ], 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 52, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 53, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 54, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 55, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 56, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 57, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 58, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 59, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 60, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 61, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 62, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 63, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 64, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 65, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 66, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 67, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 68, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 69, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 70, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 71, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 72, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 73, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 74, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 75, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 76, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 77, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 78, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 79, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 80, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 81, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 82, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 83, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 84, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 85, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 86, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 87, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 88, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 89, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 90, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 91, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 92, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 93, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 94, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 95, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 96, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 97, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 98, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 99, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 100, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 101, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 102, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 103, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 104, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 105, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 106, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 107, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 108, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 109, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 110, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 111, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 112, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 113, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 114, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 115, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 116, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 117, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 118, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 119, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": [
+                942, 
+                705, 
+                27, 
+                24
+            ], 
+            "frame_type": "scoring", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 120, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 121, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 122, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 123, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 124, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 125, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 126, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 127, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 128, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 129, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 130, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 131, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 132, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 133, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 134, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 135, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 136, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 137, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 138, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 139, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 140, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 141, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 142, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 143, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 144, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 145, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 146, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 147, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 148, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 149, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 150, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 151, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 152, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 153, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 154, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 155, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 156, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 157, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 158, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 159, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 160, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 161, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 162, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 163, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 164, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 165, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 166, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 167, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 168, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 169, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 170, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 171, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 172, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 173, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 174, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 175, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 176, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 177, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 178, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 179, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 180, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 181, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 182, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 183, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 184, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 185, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 186, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 187, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 188, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 189, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 190, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 191, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 192, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 193, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 194, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 195, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 196, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 197, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 198, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 199, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 200, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 201, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 202, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 203, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 204, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 205, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 206, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 207, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 208, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 209, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 210, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 211, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 212, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 213, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 214, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 215, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 216, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 217, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 218, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 219, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 220, 
+            "details-type": "details1"
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "training", 
+            "notes": "", 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "far", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 221, 
+            "details-type": "details1"
+        }
+    ]
+}
