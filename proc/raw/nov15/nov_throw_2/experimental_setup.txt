@@ -1,0 +1,73 @@
+11.15.18
+
+setup
+
+	recreated from 11.12, but after a "reset". from previous notes:
+	
+	11 ft center of table to far yellow line
+	each yellow line is a 1ft marker (11,10,9)
+	my reach is 2 feet fully extended forward (standing on 11, goes to 9)
+		(release is about halfway from full extension, thus 10 ft)
+	table is 26" long -> yellow line at 13"
+	table is 26" tall
+	release is roughly at my height, 6 feet
+
+
+
+summary:
+
+	note high variability in timelog: .031 to .047 consistently -> "50% variation"
+	
+	note this is for horizontal distance
+	
+	note some of these "hard" throws were faster than for throw_1/output7
+	but not neccesarily "harder" but just more towards a horizontal trajectory.
+	
+	10-30 ft/sec
+		10 arcing lob
+		16-20 casual lob
+		30 fastest possible
+
+	
+end point definition:
+	
+	start: motion blur is just started
+	end: motion blur has endpoint at contact with table
+	
+	
+output1
+
+	throw1 - lob
+	
+		start	292	9.73
+		end		309	10.29
+		
+			9.5	to 0.2
+		
+	throw2 - lob
+	
+		start	349 11.62
+		end		364 12.13
+		
+			9.5 to 0.75
+
+	throw3 - hard
+	
+		start	409	13.61
+		end		421 14.01
+		
+			9.0 to -1.5
+		
+	throw4 - hard
+	
+		start	479	15.95
+		end		490 16.31
+		
+			9.0 to -0.75
+		
+	throw5
+	
+		start	557 18.55
+		end		582 19.38
+		
+			10.0 to 1.5

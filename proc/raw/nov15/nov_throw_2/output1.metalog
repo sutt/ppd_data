@@ -1,0 +1,13 @@
+{
+    "fourcc_enum": 875967064, 
+    "b_buffer": false, 
+    "frame_size": "(1280, 720)", 
+    "notes": {
+        "category": "speed_estimate", 
+        "basic_notes": "novemeber 15, estimate speed in 10 ft interval", 
+        "details": {
+            "light_level": "double_lightbulb"
+        }
+    }, 
+    "cam_num": 2
+}

@@ -4,3 +4,5 @@
 *.png binary
 *.h264 binary
 *.pdf binary
+*.xlsx binary
+*.xls binary

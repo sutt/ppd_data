@@ -1,0 +1,75 @@
+11.12.18
+
+11 ft center of table to far yellow line
+each yellow line is a 1ft marker (11,10,9)
+my reach is 2 feet fully extended forward (standing on 11, goes to 9)
+	(release is about halfway from full extension, thus 10 ft)
+table is 26" long -> yellow line at 13"
+table is 26" tall
+release is roughly at my height, 6 feet
+
+(11.15 note)
+	output3 and output7 had bad timelogs (indexed in middle)
+	these were repaired in books/fix_vids_timelog.ipynb
+	and we saved the old, bad data in bad_data sub directory
+
+summary:
+
+	throws are 6 - 18mph or 10 - 25 feet / sec
+		arcs 6-8   mph
+		lobs 12-14 mph
+		hard 15-18 mph
+		
+	(see excel file for calcs)
+	
+end point definition:
+	
+	start: motion blur is just started
+	end: motion blur has endpoint at contact with table
+	
+	
+	output3  15 fps - timing appears messed up
+	
+		throw1 - lob
+			
+			start  	4.55 137 - leaving hand at 10
+			end		4.85 146 - center of table 1/4 frame past center
+			
+		throw2
+		
+			start 	5.72 172
+			end 	6.02 - 1/5 frame past center
+			
+		throw3
+		
+		throw4
+		
+		throw5
+	
+	
+	output7 30 fps
+		
+		throw1 - lob
+		
+			start 	10.23  306  leaving hand 10 ft line
+			end   	10.75  322  at center line
+		
+		throw2 - hard n low
+		
+			start 	12.22  366 leaving hand 10 ft line
+			end		12.65  379 short of center by 0.5 feet
+			
+		throw3 - hardest
+		
+			start	13.72 411 leavin hand 10 ft line
+			end 	14.06 421 enge of table (1.5 feet short)
+			
+		throw4 - arc
+		
+			start 	16.01 480 leavin hand 10 ft line
+			end		16.86 505 enge of table
+		
+		throw - rainbow
+		
+			start 	19.41 582 leavin hand 10 ft line
+			end 	20.31 609 edge of table
