@@ -6,3 +6,4 @@
 *.pdf binary
 *.xlsx binary
 *.xls binary
+*.db binary
