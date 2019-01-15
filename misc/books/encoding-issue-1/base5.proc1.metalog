@@ -1,0 +1,180 @@
+{
+    "fourcc_enum": 875967064, 
+    "notes": {
+        "category": "distant_find", 
+        "basic_notes": "A dozen challenge locations, handscored; most balls are marked with score=0 (liberal full ball) and score=1 (conservative core part of ball).", 
+        "orientation": 0, 
+        "details": {
+            "light_level": "sunlight_strong", 
+            "ball_color": "orange", 
+            "ball_present": true
+        }
+    }, 
+    "frame_size": "(640, 480)", 
+    "b_buffer": false, 
+    "proc-data": {
+        "last_write_compression_enum": 0
+    }, 
+    "processed": true, 
+    "cam_num": 0, 
+    "frames": [
+        {
+            "scoring": {
+                "1": {
+                    "type": "circle", 
+                    "data": [
+                        111, 
+                        218, 
+                        46, 
+                        44
+                    ]
+                }, 
+                "0": {
+                    "type": "circle", 
+                    "data": [
+                        107, 
+                        214, 
+                        54, 
+                        52
+                    ]
+                }
+            }, 
+            "frame_type": "end", 
+            "notes": null, 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 13, 
+            "details-type": null
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "end", 
+            "notes": null, 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 14, 
+            "details-type": null
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "end", 
+            "notes": null, 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 15, 
+            "details-type": null
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "end", 
+            "notes": null, 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 16, 
+            "details-type": null
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "end", 
+            "notes": null, 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 17, 
+            "details-type": null
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "end", 
+            "notes": null, 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 18, 
+            "details-type": null
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "end", 
+            "notes": null, 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 19, 
+            "details-type": null
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "end", 
+            "notes": null, 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 20, 
+            "details-type": null
+        }, 
+        {
+            "scoring": null, 
+            "frame_type": "end", 
+            "notes": null, 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 21, 
+            "details-type": null
+        }, 
+        {
+            "scoring": {
+                "1": {
+                    "type": "circle", 
+                    "data": [
+                        203, 
+                        206, 
+                        38, 
+                        38
+                    ]
+                }, 
+                "0": {
+                    "type": "circle", 
+                    "data": [
+                        194, 
+                        200, 
+                        52, 
+                        53
+                    ]
+                }
+            }, 
+            "frame_type": "end", 
+            "notes": null, 
+            "details": {
+                "ball_partial_occluded": false, 
+                "ball_is_close": "medium", 
+                "ball_present": true
+            }, 
+            "orig_vid_index": 22, 
+            "details-type": null
+        }
+    ]
+}
